@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CarJ</string>
+    <string name="text1">Astrakhan</string>
+    <string name="text22">17 October 18:00- 30 October 15:00</string>
+    <string name="textView3">Cadillac</string>
+    <string name="textView4">1.5 billion $</string>
+    <string name="textView5">BMW</string>
+    <string name="textView6">2.28 billion $</string>
+    <string name="textView7">1.5 billion $</string>
+    <string name="textView8">GAZELLE</string>
+    <string name="textView9">1.1 billion $</string>
+    <string name="textView10">Filters</string>
+    <string name="textView11">Lamborgini</string>
+    <string name="textView12">specifications:</string>
+    <string name="textView13">5</string>
+    <string name="textView14">Bugati</string>
+</resources>
